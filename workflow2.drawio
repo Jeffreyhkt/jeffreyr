@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2021-02-04T18:56:27.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Dw1XSAatiHW8vWrz7_yE" version="14.2.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="EgBC04QztFvW4lOAoH6G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="5eM2bL5UXYDsiVkOI-E2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Map Human Trafficking and Labour Exploitation Rules in Different Jurisdictions" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="190" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-2" target="5eM2bL5UXYDsiVkOI-E2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-2" target="EgBC04QztFvW4lOAoH6G-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-2" value="Analyse effectiveness of policies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="555" y="190" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-3" target="5eM2bL5UXYDsiVkOI-E2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-3" value="Analyse and classify policies based on effectiveness" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="762" y="190" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-4" target="5eM2bL5UXYDsiVkOI-E2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-4" target="5eM2bL5UXYDsiVkOI-E2-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-4" value="Generalise policies for industries" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="972" y="190" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-5" target="5eM2bL5UXYDsiVkOI-E2-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-5" value="Analyse compliance with Due Diligence and ESG listing rules&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1035.38" y="279" width="261.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-7" target="EgBC04QztFvW4lOAoH6G-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-7" value="ESG reports for organisations on model remediation policies" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1031" y="381" width="270" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-8" value="White Paper on Best Practices for Policymakers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1321" y="435" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-11" target="5eM2bL5UXYDsiVkOI-E2-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-11" value="Analyse compliance with antislavery legislation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1321" y="190" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-18" value="Stage 1" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-19" value="Legal&lt;br&gt;Research" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="235" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5eM2bL5UXYDsiVkOI-E2-20" value="Possible &lt;br&gt;Outcomes" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=26;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="440" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-0" value="Advocacy and lobbying engagement with regulators where room for improvement is found" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="542.5" y="420" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-4" value="Proactive Business Compliance for Competitive Advantage" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1031" y="493" width="270" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EgBC04QztFvW4lOAoH6G-11" target="5eM2bL5UXYDsiVkOI-E2-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EgBC04QztFvW4lOAoH6G-11" value="Advice to policymakers and regulators" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="555" y="60" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hUnLCL1HYknpbywxzjwY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hUnLCL1HYknpbywxzjwY-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hUnLCL1HYknpbywxzjwY-0" value="Analyzing Global Laws" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="315" y="60" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hUnLCL1HYknpbywxzjwY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5eM2bL5UXYDsiVkOI-E2-8" target="5eM2bL5UXYDsiVkOI-E2-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lzkNc3KN7_9rav-XtyQQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hUnLCL1HYknpbywxzjwY-3" target="5eM2bL5UXYDsiVkOI-E2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hUnLCL1HYknpbywxzjwY-3" value="Gather anti-human trafficking and remediation corporate practices" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740.75" y="60" width="212.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lzkNc3KN7_9rav-XtyQQ-0" value="Stage 2" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Verdana;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
